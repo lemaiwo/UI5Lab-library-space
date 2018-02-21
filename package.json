@@ -4,7 +4,7 @@
   "description": "Sample of a custom UI5 library for the UI5Lab project",
   "repository" : {
     "type" : "git",
-    "url" : "later after push to git"
+    "url" : "https://github.com/lemaiwo/UI5Lab-library-starwars.git"
   },
   "license" : "Apache-2.0",
   "private": false,

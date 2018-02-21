@@ -1,0 +1,28 @@
+{
+  "ui5lab.wl.starwars": {
+    "icon": "sap-icon://activate",
+    "name": "StarWars library",
+    "description": "A library with StarWars controls for UI5",
+    "source" : "https://github.com/lemaiwo/UI5LabLibraryStarWars",
+    "documentation": "https://github.com/lemaiwo/UI5LabLibraryStarWars/blob/master/README.md",
+    "demo": "optional",
+    "license": "MIT",
+    "version": 1.0,
+    "content": {
+      "StarWarsIntro": {
+        "id": "StarWarsIntro",
+        "name": "StarWars Intro",
+        "type": "control",
+        "version": 1.0,
+        "description": "StarWars Intro UI5 Control",
+        "samples": [
+          {
+            "id": "StarWarsIntro",
+            "name": "StarWars Intro",
+            "description": "StarWars Intro UI5 Control"
+          }
+        ]
+      }
+    }
+  }
+}

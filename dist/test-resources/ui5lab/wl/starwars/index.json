@@ -3,9 +3,8 @@
     "icon": "sap-icon://activate",
     "name": "StarWars library",
     "description": "A library with StarWars controls for UI5",
-    "source" : "https://github.com/lemaiwo/UI5LabLibraryStarWars",
-    "documentation": "https://github.com/lemaiwo/UI5LabLibraryStarWars/blob/master/README.md",
-    "demo": "optional",
+    "source" : "https://github.com/lemaiwo/UI5Lab-library-starwars",
+    "documentation": "https://github.com/lemaiwo/UI5Lab-library-starwars/blob/master/README.md",
     "license": "MIT",
     "version": 1.0,
     "content": {

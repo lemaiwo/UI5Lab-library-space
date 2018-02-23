@@ -1,5 +1,5 @@
 {
-  "name": "ui5lab-library-starwars",
+  "name": "ui5lab-wl-starwars",
   "description": "Sample of a custom UI5 library for the UI5Lab project",
   "private": true,
   "dependencies": {

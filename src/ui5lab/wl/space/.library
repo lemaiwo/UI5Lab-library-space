@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <library xmlns="http://www.sap.com/sap.ui.library.xsd">
 
-	<name>ui5lab.wl.starwars</name>
+	<name>ui5lab.wl.space</name>
 	<version>${version}</version>
 
-	<documentation>UI5 library: ui5lab.wl.starwars</documentation>
+	<documentation>UI5 library: ui5lab.wl.space</documentation>
 
 	<dependencies>
 		<dependency>

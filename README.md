@@ -1,2 +1,2 @@
-# UI5Lab-library-starwars
-UI5Lab library StarWars
+# UI5Lab-library-space
+UI5Lab library Space

@@ -1,9 +1,9 @@
 sap.ui.define(['sap/ui/core/Control', './library'],
     function(Control, library ) {
         "use strict";
-        var oIntro = Control.extend("ui5lab.wl.starwars.Intro", {
+        var oIntro = Control.extend("ui5lab.wl.space.Intro", {
             metadata: {
-                library : "ui5lab.wl.starwars",
+                library : "ui5lab.wl.space",
                 properties: {
                     intro: "string",
                     title: "string",

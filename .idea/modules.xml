@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/UI5Lab-library-starwars.iml" filepath="$PROJECT_DIR$/.idea/UI5Lab-library-starwars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/UI5Lab-library-space.iml" filepath="$PROJECT_DIR$/.idea/UI5Lab-library-space.iml" />
     </modules>
   </component>
 </project>

@@ -2,11 +2,11 @@
   "name": "ui5lab-wl-space",
   "version": "0.1.2",
   "description": "Sample of a custom UI5 library for the UI5Lab project",
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/lemaiwo/UI5Lab-library-space.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lemaiwo/UI5Lab-library-space.git"
   },
-  "license" : "Apache-2.0",
+  "license": "Apache-2.0",
   "private": false,
   "scripts": {
     "test": "echo \"Error: no test specified. Please add some.\" && exit 1",

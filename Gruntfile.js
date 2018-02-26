@@ -4,7 +4,7 @@ module.exports = function(grunt) {
 
     grunt.initConfig({
 
-        libraryName: 'ui5lab.wl.starwars',
+        libraryName: 'ui5lab.wl.space',
 
         dir: {
             src: 'src',
